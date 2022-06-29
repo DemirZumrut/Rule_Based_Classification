@@ -7,8 +7,8 @@ A game company wants to create new level-based customer definitions (personas) b
 
 The Persona.csv dataset contains the prices of the products sold by an international game company and some demographic information about the users who buy these products. The data set consists of records created in each sales transaction. This means that a user with certain demographic characteristics may have made more than one purchase.
 
-PRICE – Customer's spending amount
-SOURCE – The type of device the customer is connecting to 
-SEX – Gender of the client 
-COUNTRY – Country of the customer 
+PRICE – Customer's spending amount <br>
+SOURCE – The type of device the customer is connecting to <br>
+SEX – Gender of the client <br>
+COUNTRY – Country of the customer <br>
 AGE – Age of the customer
